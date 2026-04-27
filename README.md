@@ -1,1 +1,1 @@
-# CodeAlpha_Pthonproggramming
+# CodeAlpha_Python_programming
